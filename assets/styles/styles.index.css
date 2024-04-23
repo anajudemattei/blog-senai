@@ -1,7 +1,20 @@
 @import url('https://fonts.googleapis.com/css2?family=Acme&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Frank+Ruhl+Libre:wght@300..900&display=swap');
 
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+}
+
+body {
+    font-family: "Acme", sans-serif;
+    background-color: rgb(242, 178, 199);
+}
+h1 {
+    text-align: center;
+}
+
+h3 {
+    font-family: "Frank Ruhl Libre", sans-serif;
 }
